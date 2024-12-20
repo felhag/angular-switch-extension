@@ -1,3 +1,4 @@
+<!-- Plugin description -->
 功能
 =======
 
@@ -10,3 +11,4 @@ ctrl(cmd)-L
 ctrl(cmd)-shift-L
 --------
 逆序切换
+<!-- Plugin description end -->
